@@ -7,4 +7,4 @@ The main purpose of this project is to easily take handwritten notes to embed in
 ## Installation 
 
 - There are deb packages in the releases.
-- There's also the (https://aur.archlinux.org/packages/excalidraw-svg-editor)[excalidraw-svg-editor] aur package
+- There's also the [excalidraw-svg-editor](https://aur.archlinux.org/packages/excalidraw-svg-editor) aur package
