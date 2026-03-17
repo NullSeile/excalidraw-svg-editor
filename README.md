@@ -1,7 +1,10 @@
-# Tauri + React + Typescript
+# Excalidraw SVG Editor
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+Allows Excalidraw to be used as a standalone app to open and edit `.excalidraw.svg` files.
 
-## Recommended IDE Setup
+The main purpose of this project is to easily take handwritten notes to embed in typst, markdown, latex...
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## Installation 
+
+- There are deb packages in the releases.
+- There's also the [https://aur.archlinux.org/packages/excalidraw-svg-editor](excalidraw-svg-editor) aur package
